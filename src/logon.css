@@ -1,0 +1,31 @@
+#logon-bgimage {
+  background: #3b3c3d;
+  height: 100vh;
+  background-position: center;
+  background-repeat: no repeat;
+  background-size: cover;
+}
+
+#piggy {
+  border-radius: 50%;
+  width: 300px;
+}
+.h1 {
+  color: #f6a7b8;
+  font-family: "Sans Serif";
+  font-size: 90px;
+}
+.card-body label {
+  color: #000 !important;
+}
+.p {
+  /* color: white; */
+  /* font-size: 25px; */
+}
+.error {
+  color: #ff0000;
+}
+
+.form {
+  display: inline-block;
+}
